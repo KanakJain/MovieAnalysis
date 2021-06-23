@@ -1,7 +1,7 @@
 # MovieAnalysis
 ## A basic notebook where different factors relating to a movie's grossing are analyzed
 
-If Github doesn't renders the notebooks, use this link: https://nbviewer.jupyter.org/github/KanakJain/MovieAnalysis/blob/main/MovieAnalysis.ipynb
+If Github doesn't renders the notebook, use this link: https://nbviewer.jupyter.org/github/KanakJain/MovieAnalysis/blob/main/MovieAnalysis.ipynb
 
 Contents of the Dataset:
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
